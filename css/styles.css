@@ -1,0 +1,13 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+.highlight {
+color:rgb(1, 248, 133);
+}
+.fish-type {
+  color: #ff0ac2;
+}
